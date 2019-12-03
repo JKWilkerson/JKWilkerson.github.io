@@ -11,7 +11,7 @@ Sandbox website for projects and documentation and general tinkering
 
 [GitHub Pages docs](https://help.github.com/en/github/working-with-github-pages)
 
-[Silex - Publishing and Releasing Your Website](https://github.com/silexlabs/Silex/wiki/Publishing-and-Releasing-Your-Website)
+[Silex - Publishing and Releasing Your Website](https://github.com/silexlabs/Silex/wiki/Publishing-and-Releasing-Your-Website) (could use some editing/screenshots/expansion as well)
 
 
 ### Documentation
