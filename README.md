@@ -3,10 +3,9 @@ Sandbox website for projects and documentation and general tinkering
 
 ## To do
 - Go through *"Getting Started"* work with GitHub Pages and Silex
-- 
 - Add/link to Silex (template with any minor change should load as .io page)
 - Add Netlify and headless CMS, if possible with Silex
-- Create a custom 404 page (easy), for kicks: [doc](https://help.github.com/en/github/working-with-github-pages/creating-a-custom-404-page-for-your-github-pages-site)
+
 ## Resources
 [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
@@ -15,7 +14,7 @@ Sandbox website for projects and documentation and general tinkering
 [Silex - Publishing and Releasing Your Website](https://github.com/silexlabs/Silex/wiki/Publishing-and-Releasing-Your-Website)
 
 
-### Documentation.
+### Documentation
 This Silex getting started page could use a lot of work / copyediting / proofreading / adding sections and screenshots / (reorg, if there's a more in-depth guide it's linking to) [here](https://github.com/silexlabs/Silex/wiki/Getting-Started-With-Silex-Website-Builder)
 - it only has a Dropbox explanation for image uploads/storage (can I use both GH Pages and Dropbox then?)- add others?
 
