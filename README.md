@@ -34,8 +34,8 @@ and you create a new file called `/about/contact-us.md` on the `gh-pages` branch
 the file will be available at `https://<user>.github.io/<repository>/about/contact-us.md`
 
 
-## Additions to site
-
+## Notes and Additions to site
+Here's how Silex puts multiple HTML pages in one using [JQuery](https://github.com/silexlabs/Silex/wiki/Silex-and-Javascript#page-events)
 https://github.com/anaibol/awesome-serverless
 
 
@@ -55,7 +55,24 @@ help.github.com
 -- GitHub Pages sites have a soft bandwidth limit of 100GB per month.
 -- GitHub Pages sites have a soft limit of 10 builds per hour.
 
+## Contributions for Silex To Do
+- Lots of the docs are outdated or need editing
+- Can add a lot of screenshots- old UI in many of the pages
+
 ## Project Notes for Later
+- Investigate submodules and their uses
+
+
+# Secondary SSG project with Hugo
+So there is only one user site allowed per account, and that is the Silex one currently. I want to create another site using the most up-to-date tools and apps, in order to make a site for documentation that I can use for APIs and other projects. 
+
+The idea is to:
+- Use a Git project repo (distinction [here](https://help.github.com/en/github/working-with-github-pages/about-github-pages)
+- Use Hugo as my SSG and a Hugo template called DocDock that is used for knowledge bases
+- Use Netflify to deploy
+- Use forestry.io (headless CMS) to create a WYSIWIG editor for the site and make it simple to manage
+
+
 
 
 ### Fun Facts
