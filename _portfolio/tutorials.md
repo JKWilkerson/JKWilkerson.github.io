@@ -1,10 +1,10 @@
 ---
 title: "Tutorial samples: Test Page 3: Portfolio"
 excerpt: "Excerpt text for tutorials for portfolio."
-header:
-  image: /assets/images/jw_profile_photo.jpg
-  teaser: /assets/images/jw_profile_photo.jpg
-
+# header:
+#   image: /assets/images/jw_profile_photo.jpg
+#   teaser: /assets/images/jw_profile_photo.jpg
+toc: true
 ---
 
 # Tutorials

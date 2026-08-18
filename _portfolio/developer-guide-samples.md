@@ -1,10 +1,10 @@
 ---
 title: "Dev guide samples: Test Page 2: Portfolio"
 excerpt: "Excerpt text for dev guide samples for portfolio."
-header:
-  image: /assets/images/jw_profile_photo.jpg
-  teaser: /assets/images/jw_profile_photo.jpg
-
+# header:
+#   image: /assets/images/jw_profile_photo.jpg
+#   teaser: /assets/images/jw_profile_photo.jpg
+toc: true
 ---
 
 
