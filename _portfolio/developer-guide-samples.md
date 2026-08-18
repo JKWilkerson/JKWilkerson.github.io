@@ -10,6 +10,18 @@ header:
 
 # Developer Guide Samples
 
+## TODO
+
+- Add a TOC, and anything else to help organize
+- Add a description and jump nav links(?)
+- Add descriptions for each
+
+Be judicious about how many and what samples to include in this portfolio.
+- a range of content is better
+- I can create content that is not present.
+
+---
+
 ## From _Developing Oracle JET Apps Using MVVM Architecture_ and _Developing Oracle JET Apps Using Virtual DOM Architecture_
 
 - [Migrate Oracle JET Legacy Components to Core Pack Components](https://docs.oracle.com/en/middleware/developer-tools/jet/19/vdom/core-pack-migrator.html#GUID-C090B095-5014-407B-8BE0-E452333124F4)
@@ -36,3 +48,28 @@ New versions of the publication _What's New in Oracle JET_ are released alongsid
 
 - [Get subissues](https://docs.oracle.com/en/cloud/paas/visual-builder/vb-rest-apis/op-issues-v3-issues-issueid-subissues-get.html) in _REST API for Oracle Visual Builder Studio_
 - [Oracle JET CLI API for CI/CD](https://docs.oracle.com/en/middleware/developer-tools/jet/18/develop/oracle-jet-cli-api-ci-cd.html#GUID-8C4B75C1-BC32-4301-8308-F87219402665) in _Developing Oracle JET Apps Using MVVM Architecture_
+
+
+# Test and .md content to use and adjust
+
+Here's a quick checklist of the important folders/files you'll want to be mindful of:
+
+| Name                  |                     Fill Text Here                                |                   |
+|---------------------- | ------------------------------------------------------------------| ----------------  |
+| `TK`                  | [Google Standard Analytics](https://www.google.com/analytics/)    |     tk            |
+| **`TK`**              | Wer reitet so spat durch Nacht und Wind?                          |     tk            |
+| `TK`                  | [Google Standard Analytics](https://www.google.com/analytics/)    |     tk            |
+| `TK`                  | Wer reitet so spat durch Nacht und Wind?                          |     tk            |
+| `TK`                  | [Google Standard Analytics](https://www.google.com/analytics/)    |     tk            |
+| `TK`                  | Wer reitet so spat durch Nacht und Wind?                          |     tk            |
+| _`TK`_                | Wer reitet so spat durch Nacht und Wind?                          |     tk            |
+
+
+
+* List
+* List
+* List 
+
+Perhaps just use headings to organize docs
+
+Create a horizontal rule with `---`

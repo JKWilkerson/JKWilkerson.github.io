@@ -19,8 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Joshua Wilkerson portfolio website. Samples of technical writing and learning content:
   User guides, developer guides, tutorials, learning paths, API references, release notes.
   Oracle enterprise software: Oracle JavaScript Extension Toolkit and Visual Builder Studio.
-twitter_username: username
-github_username: username
+github_username: JKWilkerson
 minimal_mistakes_skin: air # dirt, dark, mint, contrast: these are also good
 search: true
 

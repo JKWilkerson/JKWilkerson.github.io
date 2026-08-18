@@ -9,6 +9,14 @@ header:
 
 # Tutorials
 
+## TODO
+
+- Add a TOC, and anything else to help organize
+- Add a description and jump nav links(?)
+- Add descriptions for each
+
+---
+
 Here is a collection of some tutorials and learning paths that I worked on as part of the Oracle JET (JavaScript Extension Toolkit) user-assistance team. 
 
 Oracle JET learning paths are collections of progressive tutorials that provide hands-on instruction to app developers and end users of the toolkit. They cover subjects including building Oracle JET web apps using different architectures, testing and creating accessible apps, and end-to-end testing.
