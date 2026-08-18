@@ -29,7 +29,8 @@ locale: "en-US"
 name: "Joshua Wilkerson"
 enable_copy_code_button: true
 show_taxonomy: false # JW: Set this to not show the tags and categories on each post
-
+atom_feed:
+  hide: true
 collections:
   portfolio:
     output: true
