@@ -5,6 +5,8 @@ excerpt: "Excerpt text for tutorials for portfolio."
 #   image: /assets/images/jw_profile_photo.jpg
 #   teaser: /assets/images/jw_profile_photo.jpg
 toc: true
+toc_label: "My Table of Contents"
+toc_icon: "cog"
 ---
 
 # Tutorials

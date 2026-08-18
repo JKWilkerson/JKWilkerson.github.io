@@ -5,6 +5,8 @@ excerpt: "Excerpt text for dev guide samples for portfolio."
 #   image: /assets/images/jw_profile_photo.jpg
 #   teaser: /assets/images/jw_profile_photo.jpg
 toc: true
+toc_label: "Table of Contents"
+toc_icon: "cog"
 ---
 
 
