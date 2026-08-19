@@ -7,10 +7,9 @@ entries_layout: grid
 classes: wide
 ---
 
+TK
 
-OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOoooooooooooooooooooooooooooooooooooooooooooooo
-Content here TK
-
+<!-- 
 ## TODO
 
 - Add descriptive content
@@ -18,12 +17,12 @@ Content here TK
 - I should drag down the JET 19 and some VBS guides for VDOM, MVVM, and others (accessibility, APIs, Core Pack) as PDFs. Just in case they are taken down sometime.
 - Add images for different content types- whatever is opensource- 
 - I can discuss the different products I worked on.
-
+- Use tags to organize content at a later date
 
 This is a collection of my technical writing samples. I've included a range of document types that demonstrate my ability to break down complex technologies, concepts, and procedures into accessible and useful content.
 
 - For my general writing samples, including developer-guide topics, reference documentation, and release notes, see [developer-guide-samples.md](/JKWilkerson/technical-writing-portfolio/developer-guide-samples.md).
-- For my tutorial samples, see [tutorials.md](/JKWilkerson/technical-writing-portfolio/tutorials.md).
+- For my tutorial samples, see [tutorials.md](/JKWilkerson/technical-writing-portfolio/tutorials.md). -->
 
 
 

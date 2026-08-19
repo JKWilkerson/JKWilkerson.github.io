@@ -1,23 +1,23 @@
 ---
-title: "Tutorial samples: Test Page 3: Portfolio"
-excerpt: "Excerpt text for tutorials for portfolio."
+title: "Tutorials and Learning Content"
+excerpt: "Tutorials and learning-path content."
 # header:
 #   image: /assets/images/jw_profile_photo.jpg
 #   teaser: /assets/images/jw_profile_photo.jpg
 toc: true
-toc_label: "My Table of Contents"
+
 toc_icon: "cog"
 ---
 
-# Tutorials
-
-## TODO
+<!-- TODO
 
 - Add a TOC, and anything else to help organize
 - Add a description and jump nav links(?)
 - Add descriptions for each
 
----
+- Maybe be more selective about which tutorials to use.
+- Figure out where to describe each tutorial, and change the descriptions.
+--- -->
 
 Here is a collection of some tutorials and learning paths that I worked on as part of the Oracle JET (JavaScript Extension Toolkit) user-assistance team. 
 
