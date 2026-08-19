@@ -1,14 +1,16 @@
 ---
-title: "Guides, Manuals, References, Release Notes"
+title: "Documentation: Guides, Procedures, References"
 excerpt: "Contains developer guide samples for portfolio."
-# header:
-#   image: /assets/images/jw_profile_photo.jpg
-#   teaser: /assets/images/jw_profile_photo.jpg
+header:
+  image: /assets/images/documentation-icon.png
+  teaser: /assets/images/documentation-icon.png
 toc: true
 
 toc_icon: "cog"
 ---
 
+TK
+Placeholder text to describe content, where it comes from, etc.
 <!-- This needs better organization. Organize by types of documents. A line about where these are drawn from -->
 <!-- TODO
 

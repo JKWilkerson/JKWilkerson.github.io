@@ -1,9 +1,9 @@
 ---
 title: "Tutorials and Learning Content"
 excerpt: "Tutorials and learning-path content."
-# header:
-#   image: /assets/images/jw_profile_photo.jpg
-#   teaser: /assets/images/jw_profile_photo.jpg
+header:
+  image: /assets/images/tutorials-icon.png
+  teaser: /assets/images/tutorials-icon.png
 toc: true
 
 toc_icon: "cog"
@@ -11,12 +11,13 @@ toc_icon: "cog"
 
 <!-- TODO
 
-- Add a TOC, and anything else to help organize
+
 - Add a description and jump nav links(?)
 - Add descriptions for each
 
 - Maybe be more selective about which tutorials to use.
 - Figure out where to describe each tutorial, and change the descriptions.
+- Download content for all of these from sites
 --- -->
 
 Here is a collection of some tutorials and learning paths that I worked on as part of the Oracle JET (JavaScript Extension Toolkit) user-assistance team. 
