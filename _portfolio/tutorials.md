@@ -2,7 +2,7 @@
 title: "Tutorials and Learning Content"
 excerpt: "Tutorials and learning-path content."
 header:
-  image: /assets/images/tutorials-icon.png
+#   image: /assets/images/tutorials-icon.png
   teaser: /assets/images/tutorials-icon.png
 toc: true
 

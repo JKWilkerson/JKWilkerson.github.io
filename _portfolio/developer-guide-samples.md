@@ -2,7 +2,7 @@
 title: "Documentation: Guides, Procedures, References"
 excerpt: "Contains developer guide samples for portfolio."
 header:
-  image: /assets/images/documentation-icon.png
+  # image: /assets/images/documentation-icon.png
   teaser: /assets/images/documentation-icon.png
 toc: true
 
