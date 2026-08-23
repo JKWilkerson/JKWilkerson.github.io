@@ -41,75 +41,44 @@ This learning path teaches developers how to build Oracle JET apps using a virtu
 
 View the [learning path's main page](https://docs.oracle.com/en/middleware/developer-tools/jet/19/vdom-tutorials.html) for a full list of its modules and tutorials. Some selected tutorials are included here.
 
-<!-- Different Samples- should I pick? Table is good though -->
+<!--Should I pick? different samples? Table is good though -->
 
-## From the _Responsive Design_ Module
-
-- [Add Containers to the Oracle JET Virtual DOM App](https://apexapps.oracle.com/pls/apex/f?p=44785:112:0::::P112_CONTENT_ID:32346): 
-    This first tutorial in the module teaches developers how to add Oracle JET flex layout style classes to their app to make their page layout responsive to screen-size changes.
-- [Show or Hide Content in the Oracle JET Virtual DOM App](https://apexapps.oracle.com/pls/apex/f?p=44785:112:0::::P112_CONTENT_ID:32348): 
-    The third tutorial teaches developers how to monitor changes in the size of the window that their app is running in and modify their app’s components to load different content to adjust to changes in screen size.
-
-## From the _Master Detail Views in Oracle JET_ Module
-
-- [Create the Master View in an Oracle JET Virtual DOM App](https://apexapps.oracle.com/pls/apex/f?p=44785:112:0::::P112_CONTENT_ID:32350): 
-    This first tutorial in the module teaches developers how to read data from a local JSON document and use an Oracle JET data-provider object to display the data in a list.
-- [Handle Selection Events in an Oracle JET Virtual DOM App](https://apexapps.oracle.com/pls/apex/f?p=44785:112:0::::P112_CONTENT_ID:32352): 
-    This tutorial concludes this module and instructs developers on how to use change listeners and event handlers to modify their app’s displayed master-detail data to respond to Oracle JET List View component selection events.
-
-| Name                  |                     Module                                |                   |
+| Name                  |                     Module                                | Description |
 |---------------------- | ------------------------------------------------------------------| ----------------  |
-| [Add Containers to the Oracle JET Virtual DOM App](https://apexapps.oracle.com/pls/apex/f?p=44785:112:0::::P112_CONTENT_ID:32346)                  | _Responsive Design_ Module    |     This first tutorial in the module teaches developers how to add Oracle JET flex layout style classes to their app to make their page layout responsive to screen-size changes.            |
-| [Show or Hide Content in the Oracle JET Virtual DOM App](https://apexapps.oracle.com/pls/apex/f?p=44785:112:0::::P112_CONTENT_ID:32348)              | _Responsive Design_ Module                          |     The third tutorial teaches developers how to monitor changes in the size of the window that their app is running in and modify their app’s components to load different content to adjust to changes in screen size.            |
-| [Create the Master View in an Oracle JET Virtual DOM App](https://apexapps.oracle.com/pls/apex/f?p=44785:112:0::::P112_CONTENT_ID:32350)                  | _Master Detail Views in Oracle JET_    |     This first tutorial in the module teaches developers how to read data from a local JSON document and use an Oracle JET data-provider object to display the data in a list.            |
-| [Handle Selection Events in an Oracle JET Virtual DOM App](https://apexapps.oracle.com/pls/apex/f?p=44785:112:0::::P112_CONTENT_ID:32352)                  | _Master Detail Views in Oracle JET_                          |     This tutorial concludes this module and instructs developers on how to use change listeners and event handlers to modify their app’s displayed master-detail data to respond to Oracle JET List View component selection events.            |
+| [Add Containers to the Oracle JET Virtual DOM App](https://apexapps.oracle.com/pls/apex/f?p=44785:112:0::::P112_CONTENT_ID:32346) | Responsive Design | This first tutorial in the module teaches developers how to add Oracle JET flex layout style classes to their app to make their page layout responsive to screen-size changes. |
+| [Show or Hide Content in the Oracle JET Virtual DOM App](https://apexapps.oracle.com/pls/apex/f?p=44785:112:0::::P112_CONTENT_ID:32348)n| Responsive Design | The third tutorial teaches developers how to monitor changes in the size of the window that their app is running in and modify their app’s components to load different content to adjust to changes in screen size. |
+| [Create the Master View in an Oracle JET Virtual DOM App](https://apexapps.oracle.com/pls/apex/f?p=44785:112:0::::P112_CONTENT_ID:32350) | Master Detail Views in Oracle JET | This first tutorial in the module teaches developers how to read data from a local JSON document and use an Oracle JET data-provider object to display the data in a list. |
+| [Handle Selection Events in an Oracle JET Virtual DOM App](https://apexapps.oracle.com/pls/apex/f?p=44785:112:0::::P112_CONTENT_ID:32352) | Master Detail Views in Oracle JET | This tutorial concludes this module and instructs developers on how to use change listeners and event handlers to modify their app’s displayed master-detail data to respond to Oracle JET List View component selection events. |
 
-
-
-
-
-
-## End-to-End Testing in Oracle JET
-
-This module extends Oracle JET's app-building learning paths. Using the CRUD apps that users built in the previous tutorials, it teaches how to set up Oracle JET apps for automated end-to-end testing and how to write and run tests using Selenium WebDriver.
-
-<!-- Any other context to include? -->
-
-- [Set up a Test Environment in Oracle JET](https://apexapps.oracle.com/pls/apex/f?p=44785:112:0::::P112_CONTENT_ID:33396)
-- [Write Tests for an Oracle JET Web App](https://apexapps.oracle.com/pls/apex/f?p=44785:112:0::::P112_CONTENT_ID:33397)
 
 ## [Discover Accessibility](https://docs.oracle.com/en//middleware/developer-tools/jet/18/accessibility.html)
 
 I created this learning path that teaches users how to test Oracle JET web apps for accessibility and fix accessibility issues.
 
-The tutorial was created to follow Web Content Accessibility Guidelines (WCAG) 2.2. (...)
+The tutorial was created to follow Web Content Accessibility Guidelines (WCAG) 2.2. It uses an Oracle JET app to teach users accessibility standards and methods for testing and ensuring the accessibility of Oracle JET apps.
 
-Using a sample app that users download, the learning path teaches users accessiblity concepts and methods for building and testing the accessibility of Oracle JET apps.
+The first module, _Identify Accessibility Issues_, teaches users about accessibility issues and methods to perform accessibility audits and inspections. The second module, _Validate and Fix Application Accessibility_, guides users through the process of fixing accessibility in their sample app and its JET web components.
 
-The first module, Identify Accessibility Issues, teaches users about accessibility issues and how to audit and inspect their apps to find and address problems. The second module, Validate and Fix Application Accessibility, directly takes them through the process of fixing various types of problems in their sample JET app.
+There are seven tutorials in the learning path.
 
-There are only seven tutorials in the learning path, and so I've included them all here.
-<!-- Awkward all above. Fix, streamline -->
-
-| Name                  |                     Fill Text Here                                |                   |
+| Name                  |                     Module                                |          Description         |
 |---------------------- | ------------------------------------------------------------------| ----------------  |
-| [Test an Oracle JET Application for Accessibility: Visual Inspection](https://apexapps.oracle.com/pls/apex/f?p=44785:112:0::::P112_CONTENT_ID:29064) | Identify Accessibility Issues | Teaches how to perform a manual accessibility test of a web app, as well as learn how the Oracle JAF can help you find accessibility issues. |
-| [Test an Oracle JET Application for Keyboard-Only Accessibility](https://apexapps.oracle.com/pls/apex/f?p=44785:112:0::::P112_CONTENT_ID:29065) | Identify Accessibility Issues | https://apexapps.oracle.com/pls/apex/f?p=44785:112:0::::P112_CONTENT_ID:29065 |
-| [Perform Screen-Reader Validation on an Oracle JET Application](https://apexapps.oracle.com/pls/apex/f?p=44785:112:0::::P112_CONTENT_ID:29066) | [Google Standard Analytics](https://www.google.com/analytics/)    |     tk            |
-| [Customize the Connected Lifecycle Events](https://apexapps.oracle.com/pls/apex/f?p=44785:112:0::::P112_CONTENT_ID:29075) | Validate and Fix Application Accessibility |     tk            |
-| [Validate the Accessibility of Master Detail Views in an Oracle JET Application](https://apexapps.oracle.com/pls/apex/f?p=44785:112:0::::P112_CONTENT_ID:29076) | Validate and Fix Application Accessibility |     tk            |
-| [Verify the Accessibility of Oracle JET Components Table and Message](https://apexapps.oracle.com/pls/apex/f?p=44785:112:0::::P112_CONTENT_ID:29077) | Validate and Fix Application Accessibility |     tk            |
-| [Test Keyboard Navigation in Complex Oracle JET Components](https://apexapps.oracle.com/pls/apex/f?p=44785:112:0::::P112_CONTENT_ID:29078) | Validate and Fix Application Accessibility |     tk            |
+| [Test an Oracle JET Application for Accessibility: Visual Inspection](https://apexapps.oracle.com/pls/apex/f?p=44785:112:0::::P112_CONTENT_ID:29064) | Identify Accessibility Issues | Learn how to perform a manual accessibility test of a web app, as well as how the JET audit framework can help find accessibility issues. |
+| [Test an Oracle JET Application for Keyboard-Only Accessibility](https://apexapps.oracle.com/pls/apex/f?p=44785:112:0::::P112_CONTENT_ID:29065) | Identify Accessibility Issues | Learn how to perform a keyboard-only test of a web app. |
+| [Perform Screen-Reader Validation on an Oracle JET Application](https://apexapps.oracle.com/pls/apex/f?p=44785:112:0::::P112_CONTENT_ID:29066) | Identify Accessibility Issues | Learn how to validate a web app with a screen reader and become familiar with screen-reader voices. |
+| [Customize the Connected Lifecycle Events](https://apexapps.oracle.com/pls/apex/f?p=44785:112:0::::P112_CONTENT_ID:29075) | Validate and Fix Application Accessibility | Learn how to set an accessible page title and provide the correct load message to the `aria-live region` for each page and tab displayed in the demo app. |
+| [Validate the Accessibility of Master Detail Views in an Oracle JET Application](https://apexapps.oracle.com/pls/apex/f?p=44785:112:0::::P112_CONTENT_ID:29076) | Validate and Fix Application Accessibility | Learn how to identify and fix accessibility issues in the Organization tab of the demo app. |
+| [Verify the Accessibility of Oracle JET Components Table and Message](https://apexapps.oracle.com/pls/apex/f?p=44785:112:0::::P112_CONTENT_ID:29077) | Validate and Fix Application Accessibility | Learn how to identify and fix the remaining accessibility issues in the Employees page of the demo app. |
+| [Test Keyboard Navigation in Complex Oracle JET Components](https://apexapps.oracle.com/pls/apex/f?p=44785:112:0::::P112_CONTENT_ID:29078) | Validate and Fix Application Accessibility | Learn how to identify and fix the accessibility issues in the Departments tab of the demo app. |
 
+## End-to-End Testing in Oracle JET
 
+This module extends Oracle JET's app-building learning paths. Using the CRUD apps that users built in the paths' earlier tutorials, it comprises two tutorials that teach how to set up Oracle JET apps for automated end-to-end testing and how to write and run tests using Selenium WebDriver.
 
+<!-- Any other context to include? -->
 
-
-
-
-
-
-
+- [Set up a Test Environment in Oracle JET](https://apexapps.oracle.com/pls/apex/f?p=44785:112:0::::P112_CONTENT_ID:33396)
+- [Write Tests for an Oracle JET Web App](https://apexapps.oracle.com/pls/apex/f?p=44785:112:0::::P112_CONTENT_ID:33397)
 
 
 
