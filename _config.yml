@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Writing and Content Portfolio
+title: Joshua Wilkerson
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Joshua Wilkerson portfolio website. Samples of technical writing and learning content:
@@ -34,7 +34,7 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-
+logo: "/assets/images/documentation-icon.png"
 
 
 # Build settings
@@ -73,7 +73,7 @@ plugins:
 author:
   name   : "Joshua Wilkerson"
   avatar : "/assets/images/jw_profile_photo.jpg"
-  bio    : "I'm a technical writer, content strategist, and knowledge-base manager. I have experience designing, developing, and maintaining documentation and learning content. OOO- This is a placholder -OOO"
+  bio    : "Technical writer, content strategist, and knowledge-base manager"
   links:
     - label: "LinkedIn"
       icon: "fab fa-linkedin"

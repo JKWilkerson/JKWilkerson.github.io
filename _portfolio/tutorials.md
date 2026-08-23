@@ -27,10 +27,9 @@ Oracle JET learning paths are collections of progressive tutorials that provide 
 The tutorials were authored using Markdown, hosted on an internal GitLab repository, and published using an Oracle-integrated instance of the Gatsby static site generator.
 
 TK: Discuss planning, design, maintenance for them
-I've worked on a number of improvements to this learning path: updating it to use new JET components, replacing the use of JavaScript with TypeScript, adding improved navigation, and applying regular updates and fixes to it alongside new releases of Oracle JET.
+These required maintenance and updates alongside the releases of Oracle JET. I've worked on a number of improvements to this learning path: updating it to use new JET web components, replacing the use of JavaScript with TypeScript, adding improved navigation, and various other regular updates and fixes to it alongside new releases of Oracle JET.
 
-# [Tutorials for Building Virtual DOM Apps](https://docs.oracle.com/en/middleware/developer-tools/jet/19/vdom-tutorials.html)
-
+# Build Virtual DOM Apps
 
 This learning path teaches developers how to build Oracle JET apps using a virtual DOM architecture. It guides users step-by-step through the process of creating a virtual DOM app, customizing the layout, implementing a master-detail UI pattern, and building in CRUD functionality by connecting to a REST-enabled backend.
 
@@ -51,7 +50,7 @@ View the [learning path's main page](https://docs.oracle.com/en/middleware/devel
 | [Handle Selection Events in an Oracle JET Virtual DOM App](https://apexapps.oracle.com/pls/apex/f?p=44785:112:0::::P112_CONTENT_ID:32352) | Master Detail Views in Oracle JET | This tutorial concludes this module and instructs developers on how to use change listeners and event handlers to modify their app’s displayed master-detail data to respond to Oracle JET List View component selection events. |
 
 
-## [Discover Accessibility](https://docs.oracle.com/en//middleware/developer-tools/jet/18/accessibility.html)
+# [Discover Accessibility](https://docs.oracle.com/en//middleware/developer-tools/jet/18/accessibility.html)
 
 I created this learning path that teaches users how to test Oracle JET web apps for accessibility and fix accessibility issues.
 
@@ -71,7 +70,7 @@ There are seven tutorials in the learning path.
 | [Verify the Accessibility of Oracle JET Components Table and Message](https://apexapps.oracle.com/pls/apex/f?p=44785:112:0::::P112_CONTENT_ID:29077) | Validate and Fix Application Accessibility | Learn how to identify and fix the remaining accessibility issues in the Employees page of the demo app. |
 | [Test Keyboard Navigation in Complex Oracle JET Components](https://apexapps.oracle.com/pls/apex/f?p=44785:112:0::::P112_CONTENT_ID:29078) | Validate and Fix Application Accessibility | Learn how to identify and fix the accessibility issues in the Departments tab of the demo app. |
 
-## End-to-End Testing in Oracle JET
+# End-to-End Testing in Oracle JET
 
 This module extends Oracle JET's app-building learning paths. Using the CRUD apps that users built in the paths' earlier tutorials, it comprises two tutorials that teach how to set up Oracle JET apps for automated end-to-end testing and how to write and run tests using Selenium WebDriver.
 
@@ -85,5 +84,3 @@ This module extends Oracle JET's app-building learning paths. Using the CRUD app
 <!-- # [Tutorials for Building Web Applications](https://docs.oracle.com/en//middleware/developer-tools/jet/18/tutorials.html)
 
 This learning path teaches developers how to build apps using a MVVM (Model-View-ViewModel) architecture.
-
-Over Oracle JET's release cycles, I've worked on a number of improvements to this learning path: updating it to use new JET components, replacing the use of JavaScript with TypeScript, adding improved navigation, and applying regular updates and fixes to it alongside new releases of Oracle JET. -->
