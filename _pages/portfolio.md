@@ -7,34 +7,35 @@ entries_layout: grid
 classes: wide
 
 
-feature_row:
-  - image_path: /assets/images/documentation-icon.png
-    alt: "placeholder image 1"
-    title: "Placeholder 1"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "/portfolio/developer-guide-samples"
-    btn_label: "Read More"
-    btn_class: "btn--inverse"
-  - image_path: /assets/images/documentation-icon.png
-    alt: "placeholder image 2"
-    title: "Tutorials"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "/portfolio/tutorials"
-    btn_label: "Read More"
-    btn_class: "btn--inverse"
-  - image_path: /assets/images/documentation-icon.png
-    title: "Placeholder 3 - Tutorials"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "/portfolio/tutorials"
-    btn_label: "Read More"
-    btn_class: "btn--inverse"
+
+# feature_row:
+#   - image_path: /assets/images/documentation-icon.png
+#     alt: "placeholder image 1"
+#     title: "Placeholder 1"
+#     excerpt: "This is some sample content that goes here with **Markdown** formatting."
+#     url: "/portfolio/developer-guide-samples"
+#     btn_label: "Read More"
+#     btn_class: "btn--inverse"
+#   - image_path: /assets/images/documentation-icon.png
+#     alt: "placeholder image 2"
+#     title: "Tutorials"
+#     excerpt: "This is some sample content that goes here with **Markdown** formatting."
+#     url: "/portfolio/tutorials"
+#     btn_label: "Read More"
+#     btn_class: "btn--inverse"
+#   - image_path: /assets/images/documentation-icon.png
+#     title: "Placeholder 3 - Tutorials"
+#     excerpt: "This is some sample content that goes here with **Markdown** formatting."
+#     url: "/portfolio/tutorials"
+#     btn_label: "Read More"
+#     btn_class: "btn--inverse"
     
 
 
 
 ---
 
-{% include feature_row %}
+<!-- {% include feature_row %} -->
 
 <!-- 
 ## TODO

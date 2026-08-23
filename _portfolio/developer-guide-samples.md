@@ -1,18 +1,25 @@
 ---
-title: "Documentation: Guides, Procedures, References"
-excerpt: "Contains developer guide samples for portfolio."
+title: "Documentation"
+excerpt: "Selected guides, procedures, and reference content I created"
 header:
   # image: /assets/images/documentation-icon.png
-  teaser: /assets/images/documentation-icon.png
+  # teaser: /assets/images/documentation-icon.png
 toc: true
 
 toc_icon: "cog"
 ---
 
-TK: Introductory text. Background on these: public. 
+TK: Introductory text. Background on these: public, created using Oxygen XML Editor, DITA and a CCMS
+
+<!-- from Walter on JET Guides: Oracle JET introduced a new development paradigm, the virtual DOM architecture, to enable app developers to create apps and components using a virtual DOM engine.
+
+Using a DITA-based content management system, I created a new developer's guide from scratch that described how to develop apps using the virtual DOM architecture. Where appropriate, I took advantage of the content reuse capabilities in the DITA-based content management system to reuse content from the developer's guide for the pre-existing Model-View-ViewModel architecture..  -->
+
+<!-- From kenneth ganfield on VBS: As a Principal User Assistance Developer, I was part of a team responsible for writing and publishing web-based documentation for Oracle Visual Builder and Visual Builder Studio, cloud-based software development Platform as a Service (PaaS) products for enterprise application development. My responsibilities included working with developers and product managers to plan and architect publications to cover the products’ expanding features. -->
 
 <!-- This needs better organization. Organize by types of documents. A line about where these are drawn from -->
 <!-- TODO
+- Use oracle javascript extension toolkit (JET) in earlier breakdown
 - Can I grab content from other 
 - should I make global body text smaller- all text maybe
 - Add a description with jump nav links(?)
@@ -32,9 +39,7 @@ At some place, I need to describe what each guide is- what the product is.
 <!-- Add descriptions, those could be more effective
 cut this down to 3-6; keep only the best of each example type. Look for other examples that might be better. -->
 
-## Oracle JavaScript Extension Toolkit Developer Guides
-
-Oracle JET is ...
+These samples are from the Oracle JET developer guides,  ...  . TK: What they are, what I did for them.
 
 - [Migrate Oracle JET Legacy Components to Core Pack Components](https://docs.oracle.com/en/middleware/developer-tools/jet/19/vdom/core-pack-migrator.html#GUID-C090B095-5014-407B-8BE0-E452333124F4)
   - Descriptive text
@@ -47,9 +52,7 @@ Oracle JET is ...
 - [Develop Accessible Oracle JET Apps](https://docs.oracle.com/en/middleware/developer-tools/jet/19/develop/developing-accessible-applications.html#GUID-A8970DC0-7935-46B8-9A55-BCF4380B2CFC)
   - Descriptive text
 
-## Oracle Visual Builder Studio Guides
-
-Oracle Visual Builder Studio is...
+These samples are from the Guides from Oracle Visual Builder Studio...
 
 - [Reapply a Merge Request's Commits to a New Branch](https://docs.oracle.com/en/cloud/paas/visual-builder/visualbuilder-manage-development-process/reapply-merge-requests-commits-new-branch.html)
   - Descriptive text
@@ -61,14 +64,14 @@ Oracle Visual Builder Studio is...
   - Descriptive text
 
 
-## Release Notes
+# Release Notes
 
 New versions of the publication _What's New in Oracle JET_ are released alongside each new version of the Oracle JavaScript Extension Toolkit (JET) to inform JET developers of notable changes to the toolkit and its documentation.
 
 - [_What's New in Oracle JET 19_](https://docs.oracle.com/en/middleware/developer-tools/jet/19/whats-new/index.html#GUID-737BD500-6977-49B9-80A6-6105D4BF8F89) (notes for major release)
 - [_What's New in Oracle JET 18.1_](https://docs.oracle.com/en/middleware/developer-tools/jet/18.1/whats-new/index.html#GUID-737BD500-6977-49B9-80A6-6105D4BF8F89) (notes for minor release)
 
-## API/CLI Reference Documentation 
+# API/CLI Reference Documentation 
 
 <!-- I could really use more of these. This could maybe go into its own page once I have enough content. I think I should have it mostly be API documentation -->
 
@@ -79,7 +82,7 @@ New versions of the publication _What's New in Oracle JET_ are released alongsid
 
 
 
----
+
 
 <!-- # Test `.md` content to use and adjust
 

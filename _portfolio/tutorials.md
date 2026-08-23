@@ -1,9 +1,9 @@
 ---
 title: "Tutorials and Learning Content"
-excerpt: "Tutorials and learning-path content."
+excerpt: "Selected tutorials and learning paths I built"
 header:
 #   image: /assets/images/tutorials-icon.png
-  teaser: /assets/images/tutorials-icon.png
+#   teaser: /assets/images/tutorials-icon.png
 toc: true
 
 toc_icon: "cog"
