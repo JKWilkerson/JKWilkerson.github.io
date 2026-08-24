@@ -11,6 +11,16 @@ toc_icon: "cog"
 
 TK: Introductory text. Background on these: public, created using Oxygen XML Editor, DITA and a CCMS
 
+These samples come from my work supporting two enterprise software products at Oracle.
+
+Oracle JavaScript Extension Toolkit (JET) is an open-source collection of Oracle and third-party libraries that is used with the Redwood Design System to build the user interfaces of hundreds of Oracle apps. It is targeted to intermediate to advanced JavaScript developers and makes it simple and efficient to build applications that consume and interact with Oracle products and services, particularly Oracle Cloud.
+
+Oracle Visual Builder Studio is a cloud-based Platform as a Service (PaaS) product for enterprise application development. The platform combines low-code development and DevOps tooling to help developers build, test, and deploy web and mobile apps.
+
+I collaborated with developers, product managers, and designers to plan, implement, and publish documentation. I managed content using a DITA-based content management system 
+
+
+
 <!-- from Walter on JET Guides: Oracle JET introduced a new development paradigm, the virtual DOM architecture, to enable app developers to create apps and components using a virtual DOM engine.
 
 Using a DITA-based content management system, I created a new developer's guide from scratch that described how to develop apps using the virtual DOM architecture. Where appropriate, I took advantage of the content reuse capabilities in the DITA-based content management system to reuse content from the developer's guide for the pre-existing Model-View-ViewModel architecture..  -->
@@ -36,23 +46,24 @@ At some place, I need to describe what each guide is- what the product is.
 
 # Guides
 
-<!-- Add descriptions, those could be more effective
-cut this down to 3-6; keep only the best of each example type. Look for other examples that might be better. -->
+<!-- 
+cut this down to 3-6; keep only the best of each example type. Look for other examples that might be better. Explain content reuse / single sourcing somewhere.
+-->
 
-These samples are from the Oracle JET developer guides,  ...  . TK: What they are, what I did for them.
+From the Oracle JET developer guides, _Developing Oracle JET Apps Using MVVM Architecture_ and _Developing Oracle JET Apps Using Virtual DOM Architecture_:
 
 - [Migrate Oracle JET Legacy Components to Core Pack Components](https://docs.oracle.com/en/middleware/developer-tools/jet/19/vdom/core-pack-migrator.html#GUID-C090B095-5014-407B-8BE0-E452333124F4)
-  - Descriptive text
-- [Configure Oracle JET Apps for Testing](https://docs.oracle.com/en/middleware/developer-tools/jet/19/develop/test-debug-oracle-jet-apps.html#GUID-A87CD5D0-DBCD-4F43-9AE3-937B419BA2A7) and [About the Oracle JET Testing Technology Stack](https://docs.oracle.com/en/middleware/developer-tools/jet/19/develop/test-debug-oracle-jet-apps.html#GUID-F7BF4879-91AC-491C-9332-ED9EC233FE07)
-  - Descriptive text
-- [Prepare for Oracle JET App Migration](https://docs.oracle.com/en/middleware/developer-tools/jet/18/develop/oracle-jet-app-migration-current-release.html#GUID-B3C17F2D-1798-41A5-A489-F531011FB34B) and [Migrate an App Using the Oracle JET CLI](https://docs.oracle.com/en/middleware/developer-tools/jet/18/develop/oracle-jet-app-migration-current-release.html#GUID-EE148AA7-AED3-4FFE-BFF6-EAFEDB41433C)
-  - Descriptive text
-- [Add Third-Party Tools or Libraries to Your Oracle JET App](https://docs.oracle.com/en/middleware/developer-tools/jet/19/develop/using-requirejs-modular-development.html#GUID-EC40DF3C-57FB-4919-A066-73E573D66B67)
-  - Descriptive text
+  - An appendix chapter I wrote that discusses how to use an Oracle JET migrator tool on files with legacy web components, in order to migrate the components to their new Core Pack  equivalents. 
+- [About the Oracle JET Testing Technology Stack](https://docs.oracle.com/en/middleware/developer-tools/jet/19/develop/test-debug-oracle-jet-apps.html#GUID-F7BF4879-91AC-491C-9332-ED9EC233FE07) and [Configure Oracle JET Apps for Testing](https://docs.oracle.com/en/middleware/developer-tools/jet/19/develop/test-debug-oracle-jet-apps.html#GUID-A87CD5D0-DBCD-4F43-9AE3-937B419BA2A7)
+  - Two developer guide topics I wrote for the chapter _Test and Debug Oracle JET Apps_, in order to standardize our app-testing guidance after working with developers and product managers to identify and test our product's preferred testing tools and workflows.
+<!-- - [Prepare for Oracle JET App Migration](https://docs.oracle.com/en/middleware/developer-tools/jet/18/develop/oracle-jet-app-migration-current-release.html#GUID-B3C17F2D-1798-41A5-A489-F531011FB34B) and [Migrate an App Using the Oracle JET CLI](https://docs.oracle.com/en/middleware/developer-tools/jet/18/develop/oracle-jet-app-migration-current-release.html#GUID-EE148AA7-AED3-4FFE-BFF6-EAFEDB41433C)
+  - Descriptive text -->
+<!-- - [Add Third-Party Tools or Libraries to Your Oracle JET App](https://docs.oracle.com/en/middleware/developer-tools/jet/19/develop/using-requirejs-modular-development.html#GUID-EC40DF3C-57FB-4919-A066-73E573D66B67)
+  - Descriptive text -->
 - [Develop Accessible Oracle JET Apps](https://docs.oracle.com/en/middleware/developer-tools/jet/19/develop/developing-accessible-applications.html#GUID-A8970DC0-7935-46B8-9A55-BCF4380B2CFC)
-  - Descriptive text
+  - This chapter discusses how to create accessible Oracle JET apps using the toolkit's components and features. I worked on this chapter in conjunction with the learning path [Discover Accessibility](https://docs.oracle.com/en//middleware/developer-tools/jet/18/accessibility.html).
 
-These samples are from the Guides from Oracle Visual Builder Studio...
+From the user guide _Using Visual Builder Studio_:
 
 - [Reapply a Merge Request's Commits to a New Branch](https://docs.oracle.com/en/cloud/paas/visual-builder/visualbuilder-manage-development-process/reapply-merge-requests-commits-new-branch.html)
   - Descriptive text
