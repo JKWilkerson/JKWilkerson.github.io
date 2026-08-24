@@ -5,7 +5,7 @@ header:
 #   image: /assets/images/tutorials-icon.png
 #   teaser: /assets/images/tutorials-icon.png
 toc: true
-
+toc_sticky: true
 toc_icon: "cog"
 ---
 
@@ -81,6 +81,8 @@ This module extends Oracle JET's app-building learning paths. Using the CRUD app
 
 
 
-<!-- # [Tutorials for Building Web Applications](https://docs.oracle.com/en//middleware/developer-tools/jet/18/tutorials.html)
+<!-- 
+# [Tutorials for Building Web Applications](https://docs.oracle.com/en//middleware/developer-tools/jet/18/tutorials.html)
 
 This learning path teaches developers how to build apps using a MVVM (Model-View-ViewModel) architecture.
+-->

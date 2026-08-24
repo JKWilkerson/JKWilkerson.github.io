@@ -1,8 +1,21 @@
 @charset "utf-8";
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+
+// JW added
+$doc-font-size: 14px; 
+
+
 @import "minimal-mistakes"; // main partials
 
+// JW added
+/* Scale down all header sizes across the whole site */
+h1 { font-size: 1.8rem !important; }
+h2 { font-size: 1.4rem !important; }
+h3 { font-size: 1.2rem !important; }
+h4 { font-size: 1.0rem !important; }
+h5 { font-size: 0.9rem !important; }
+h6 { font-size: 0.8rem !important; }
 
 // remove the below if nonfunctional
 /* Copyright comment */
@@ -43,4 +56,3 @@
 @import "minimal-mistakes/sidebar";
 @import "minimal-mistakes/print";
 
-.center-image { display: flex; justify-content: center; }

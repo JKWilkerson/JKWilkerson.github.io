@@ -5,7 +5,7 @@ header:
   # image: /assets/images/documentation-icon.png
   # teaser: /assets/images/documentation-icon.png
 toc: true
-
+toc_sticky: true
 toc_icon: "cog"
 ---
 
