@@ -6,9 +6,9 @@ title: "About"
 
 Welcome! My name is Joshua Wilkerson, and I'm a technical writer.
 
-I create documentation that makes complex systems and software products easier to understand, integrate, and use, while also managing the content approaches and knowledge bases that make them accessible and targeted to their audiences. I've worked as a writer, editor, and documentation manager for nine years in three different fields: digital publishing, federal aviation guidance, and most recently, enterprise software.
+I create documentation that makes complex systems and software products easier to understand, integrate, and use. And I also manage the content approaches and knowledge bases that make them accessible and targeted to their audiences.
 
-On this site, I keep a selection of my software and developer documentation samples.
+I've worked as a writer, editor, and documentation manager for nine years in three different fields: digital publishing, federal aviation guidance, and most recently, enterprise software. On this site, I provide samples of my software and developer documentation and learning content.
 
 Most samples that I've included here are from my prior role at Oracle as a Principal User Assistance Developer. In this position, I collaborated with product, design, and engineering teams to plan, develop, and maintain documentation and other user-focused content in support of two enterprise software products: Oracle JavaScript Extension Toolkit (JET) and Oracle Visual Builder Studio.
 
