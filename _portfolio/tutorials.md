@@ -1,6 +1,6 @@
 ---
 title: "Tutorials and Learning Content"
-excerpt: "Selected tutorials and learning paths I built"
+excerpt: "Selected tutorials and learning paths"
 header:
 #   image: /assets/images/tutorials-icon.png
 #   teaser: /assets/images/tutorials-icon.png
@@ -20,11 +20,11 @@ toc_icon: "cog"
 - Download content for all of these from sites
  -->
 
-Here are some learning paths that I worked on as part of the Oracle JET (JavaScript Extension Toolkit) user-assistance team. Learning paths are collections of progressive tutorials that provide hands-on instruction to app developers.
+Here is a selection of learning paths that I worked on as part of the Oracle JET (JavaScript Extension Toolkit) user-assistance team.
 
-The tutorials were authored using Markdown, hosted on an internal GitLab repository, and published using an Oracle-integrated instance of the Gatsby static site generator.
+Learning paths are collections of progressive tutorials that provide hands-on instruction to app developers. The tutorials were authored using Markdown, hosted on an internal GitLab repository, and published using an Oracle-integrated instance of the Gatsby static-site generator.
 
-As well as creating new learning paths, I ensured their maintenance and continual improvement alongside the releases of Oracle JET: updating them to use new JET web components, replacing the use of JavaScript with TypeScript, adding improved navigation, and so on.
+As well as creating learning paths, I ensured their maintenance and continual improvement alongside the releases of Oracle JET: updating them to use new JET web components, replacing the use of JavaScript with TypeScript, adding improved navigation, and so on.
 
 # Build Virtual DOM Apps
 
@@ -50,9 +50,9 @@ View the [learning path's main page](https://docs.oracle.com/en/middleware/devel
 
 I created this learning path that teaches users how to test Oracle JET web apps for accessibility and fix accessibility issues.
 
-These tutorials follow the Web Content Accessibility Guidelines (WCAG) 2.2, and they use an Oracle JET app to teach users accessibility standards and methods for testing and ensuring the accessibility of Oracle JET apps.
+These tutorials follow the Web Content Accessibility Guidelines (WCAG) 2.2, and they use an Oracle JET demo app to teach users accessibility standards and methods for testing and ensuring the accessibility of Oracle JET apps.
 
-The first module, _Identify Accessibility Issues_, teaches users about accessibility issues and methods to perform accessibility audits and inspections. The second module, _Validate and Fix Application Accessibility_, guides users through the process of improving the accessibility of their sample app and its JET web components.
+The first module, _Identify Accessibility Issues_, teaches users about accessibility issues and methods to perform accessibility audits and inspections. The second module, _Validate and Fix Application Accessibility_, guides users through the process of improving the accessibility of their app and its JET web components.
 
 There are seven tutorials in the learning path.
 
@@ -68,7 +68,7 @@ There are seven tutorials in the learning path.
 
 # End-to-End Testing in Oracle JET
 
-This module extends Oracle JET's app-building learning paths. Using the CRUD apps that users built in the paths' earlier tutorials, it comprises two tutorials that teach how to set up Oracle JET apps for automated end-to-end testing and how to write and run tests using Selenium WebDriver.
+This module extends Oracle JET's app-building learning paths. Using the CRUD app that users built in an earlier module, it comprises two tutorials that teach how to set up Oracle JET apps for automated end-to-end testing and how to write and run tests using Selenium WebDriver.
 
 <!-- Any other context to include? -->
 

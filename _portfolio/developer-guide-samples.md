@@ -1,6 +1,6 @@
 ---
 title: "Documentation"
-excerpt: "Selected guides, procedures, and reference content I created"
+excerpt: "Selected guides, procedures, and reference content"
 header:
   # image: /assets/images/documentation-icon.png
   # teaser: /assets/images/documentation-icon.png
@@ -9,12 +9,12 @@ toc_sticky: true
 toc_icon: "cog"
 ---
 
-These samples come from my work supporting two enterprise software products at Oracle.
+Here is a selection of documentation that I created in support of two enterprise software products at Oracle.
 
 - Oracle JavaScript Extension Toolkit (JET) is an open-source collection of Oracle and third-party libraries that is used with the Redwood Design System to build the user interfaces of hundreds of Oracle apps. It is targeted to intermediate to advanced JavaScript developers and makes it simple and efficient to build applications that consume and interact with Oracle products and services, particularly Oracle Cloud.
 - Oracle Visual Builder Studio is a cloud-based Platform as a Service (PaaS) product for enterprise application development. The platform combines low-code development and DevOps tooling to help developers build, test, and deploy web and mobile apps.
 
-I collaborated with developers, product managers, and designers to plan, implement, and publish documentation alongside the releases of these products, maintaining the quality and consistency of our content alongside updates to the products' features. I created the majority of this content using Oxygen XML Editor, alongside a DITA-based content management system.
+I collaborated with developers, product managers, and designers to plan and publish documentation alongside the release cycles of these products, maintaining the quality and consistency of our content as features and user needs evolved. I wrote the majority of this documentation using Oxygen XML Editor, alongside a DITA-based content management system.
 
 
 
@@ -48,24 +48,26 @@ From the developer guides _Developing Oracle JET Apps Using MVVM Architecture_ a
 - [Migrate Oracle JET Legacy Components to Core Pack Components](https://docs.oracle.com/en/middleware/developer-tools/jet/19/vdom/core-pack-migrator.html#GUID-C090B095-5014-407B-8BE0-E452333124F4)
   - An appendix chapter I wrote that discusses how to use an Oracle JET migrator tool on files with legacy web components, in order to migrate the components to their new Core Pack  equivalents. 
 - [About the Oracle JET Testing Technology Stack](https://docs.oracle.com/en/middleware/developer-tools/jet/19/develop/test-debug-oracle-jet-apps.html#GUID-F7BF4879-91AC-491C-9332-ED9EC233FE07) and [Configure Oracle JET Apps for Testing](https://docs.oracle.com/en/middleware/developer-tools/jet/19/develop/test-debug-oracle-jet-apps.html#GUID-A87CD5D0-DBCD-4F43-9AE3-937B419BA2A7)
-  - Two developer guide topics I wrote for the chapter _Test and Debug Oracle JET Apps_, in order to standardize our app-testing guidance after working with developers and product managers to identify and test our recommended tools and workflows.
-<!-- - [Prepare for Oracle JET App Migration](https://docs.oracle.com/en/middleware/developer-tools/jet/18/develop/oracle-jet-app-migration-current-release.html#GUID-B3C17F2D-1798-41A5-A489-F531011FB34B) and [Migrate an App Using the Oracle JET CLI](https://docs.oracle.com/en/middleware/developer-tools/jet/18/develop/oracle-jet-app-migration-current-release.html#GUID-EE148AA7-AED3-4FFE-BFF6-EAFEDB41433C)
-  - Descriptive text -->
-<!-- - [Add Third-Party Tools or Libraries to Your Oracle JET App](https://docs.oracle.com/en/middleware/developer-tools/jet/19/develop/using-requirejs-modular-development.html#GUID-EC40DF3C-57FB-4919-A066-73E573D66B67)
-  - Descriptive text -->
+  - Two developer guide topics I wrote for the chapter _Test and Debug Oracle JET Apps_, in order to standardize our app-testing guidance after working with developers and product managers to identify and validate our recommended tools and workflows.
 - [Develop Accessible Oracle JET Apps](https://docs.oracle.com/en/middleware/developer-tools/jet/19/develop/developing-accessible-applications.html#GUID-A8970DC0-7935-46B8-9A55-BCF4380B2CFC)
   - This chapter discusses how to create accessible Oracle JET apps using the toolkit's components and features. I worked on this chapter in conjunction with the learning path [Discover Accessibility](https://docs.oracle.com/en//middleware/developer-tools/jet/18/accessibility.html).
 
+<!-- [Prepare for Oracle JET App Migration](https://docs.oracle.com/en/middleware/developer-tools/jet/18/develop/oracle-jet-app-migration-current-release.html#GUID-B3C17F2D-1798-41A5-A489-F531011FB34B) and [Migrate an App Using the Oracle JET CLI](https://docs.oracle.com/en/middleware/developer-tools/jet/18/develop/oracle-jet-app-migration-current-release.html#GUID-EE148AA7-AED3-4FFE-BFF6-EAFEDB41433C)
+  Descriptive text 
+[Add Third-Party Tools or Libraries to Your Oracle JET App](https://docs.oracle.com/en/middleware/developer-tools/jet/19/develop/using-requirejs-modular-development.html#GUID-EC40DF3C-57FB-4919-A066-73E573D66B67)
+  Descriptive text
+-->
 From the user guide _Using Visual Builder Studio_:
 
 - [Reapply a Merge Request's Commits to a New Branch](https://docs.oracle.com/en/cloud/paas/visual-builder/visualbuilder-manage-development-process/reapply-merge-requests-commits-new-branch.html)
   - A short topic on the platform's feature that enables users to apply commits from a merged or closed merge request to a new merge request and review branch.
 - [Set Review and Merge Restrictions on a Repository Branch](https://docs.oracle.com/en/cloud/paas/visual-builder/visualbuilder-manage-development-process/review-merge-restrictions-repository-branch.html)
   - A short topic on configuring a branch so that it allows another branch to merge into it only after the merge request reaches the required number of approvals.
-<!-- - [Retarget a Merge Request's Commits to Another Branch](https://docs.oracle.com/en/cloud/paas/visual-builder/visualbuilder-manage-development-process/retarget-merge-requests-commits-another-branch.html)
-  - Descriptive text
-- [Watch a Job](https://docs.oracle.com/en/cloud/paas/visual-builder/visualbuilder-manage-development-process/watch-job.html)
-  - Descriptive text -->
+<!-- [Retarget a Merge Request's Commits to Another Branch](https://docs.oracle.com/en/cloud/paas/visual-builder/visualbuilder-manage-development-process/retarget-merge-requests-commits-another-branch.html)
+  Descriptive text
+[Watch a Job](https://docs.oracle.com/en/cloud/paas/visual-builder/visualbuilder-manage-development-process/watch-job.html)
+  Descriptive text 
+  -->
 
 
 # Release Notes
@@ -82,14 +84,10 @@ New editions of the publication _What's New in Oracle JET_ are released alongsid
 - [Get subissues](https://docs.oracle.com/en/cloud/paas/visual-builder/vb-rest-apis/op-issues-v3-issues-issueid-subissues-get.html) in _REST API for Oracle Visual Builder Studio_
   - A REST API reference endpoint for Oracle Visual Builder Studio's issue-tracking system. It allows the retrieval of the smaller issues that belong to a larger issue.
 - [Oracle JET CLI API for CI/CD](https://docs.oracle.com/en/middleware/developer-tools/jet/18/develop/oracle-jet-cli-api-ci-cd.html#GUID-8C4B75C1-BC32-4301-8308-F87219402665) in _Developing Oracle JET Apps Using MVVM Architecture_
-  - Descriptive text
-
-An API reference for the Oracle JET command-line interface (CLI), specifically explaining how developers can use the JET CLI inside CI/CD pipelines, helping automate parts of the build, package, publish lifecycle of an Oracle JET application or component.
+  - An API reference for the Oracle JET command-line interface (CLI), explaining how developers can use the JET CLI inside CI/CD pipelines, helping automate parts of the "build, package, publish" lifecycle of an Oracle JET app or component.
 
 <!-- I documented the API's setup, configuration, method signature, supported tasks and scopes, parameters, options, and practical JavaScript examples.
 I Structured the reference around the developer's progression from understanding the API's purpose to implementing increasingly complex CLI operations programmatically. -->
-
-
 
 <!-- # Test `.md` content to use and adjust
 
