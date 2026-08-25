@@ -20,23 +20,19 @@ toc_icon: "cog"
 - Download content for all of these from sites
  -->
 
-Here are some learning paths that I worked on as part of the Oracle JET (JavaScript Extension Toolkit) user-assistance team. 
-
-Oracle JET learning paths are collections of progressive tutorials that provide hands-on instruction to app developers.
+Here are some learning paths that I worked on as part of the Oracle JET (JavaScript Extension Toolkit) user-assistance team. Learning paths are collections of progressive tutorials that provide hands-on instruction to app developers.
 
 The tutorials were authored using Markdown, hosted on an internal GitLab repository, and published using an Oracle-integrated instance of the Gatsby static site generator.
 
-TK: Discuss planning, design, maintenance for them
-These required maintenance and updates alongside the releases of Oracle JET. I've worked on a number of improvements to this learning path: updating it to use new JET web components, replacing the use of JavaScript with TypeScript, adding improved navigation, and various other regular updates and fixes to it alongside new releases of Oracle JET.
+As well as creating new learning paths, I ensured their maintenance and continual improvement alongside the releases of Oracle JET: updating them to use new JET web components, replacing the use of JavaScript with TypeScript, adding improved navigation, and so on.
 
 # Build Virtual DOM Apps
 
 This learning path teaches developers how to build Oracle JET apps using a virtual DOM architecture. It guides users step-by-step through the process of creating a virtual DOM app, customizing the layout, implementing a master-detail UI pattern, and building in CRUD functionality by connecting to a REST-enabled backend.
 
 <!-- Detail the process:
--
--
-- Managed the REST-enabled backend on an Oracle APEX workspace -->
+Managed the REST-enabled backend on an Oracle APEX workspace 
+-->
 
 View the [learning path's main page](https://docs.oracle.com/en/middleware/developer-tools/jet/19/vdom-tutorials.html) for a full list of its modules and tutorials. Some selected tutorials are included here.
 
@@ -44,19 +40,19 @@ View the [learning path's main page](https://docs.oracle.com/en/middleware/devel
 
 | Name                  |                     Module                                | Description |
 |---------------------- | ------------------------------------------------------------------| ----------------  |
-| [Add Containers to the Oracle JET Virtual DOM App](https://apexapps.oracle.com/pls/apex/f?p=44785:112:0::::P112_CONTENT_ID:32346) | Responsive Design | This first tutorial in the module teaches developers how to add Oracle JET flex layout style classes to their app to make their page layout responsive to screen-size changes. |
-| [Show or Hide Content in the Oracle JET Virtual DOM App](https://apexapps.oracle.com/pls/apex/f?p=44785:112:0::::P112_CONTENT_ID:32348)n| Responsive Design | The third tutorial teaches developers how to monitor changes in the size of the window that their app is running in and modify their app’s components to load different content to adjust to changes in screen size. |
-| [Create the Master View in an Oracle JET Virtual DOM App](https://apexapps.oracle.com/pls/apex/f?p=44785:112:0::::P112_CONTENT_ID:32350) | Master Detail Views in Oracle JET | This first tutorial in the module teaches developers how to read data from a local JSON document and use an Oracle JET data-provider object to display the data in a list. |
-| [Handle Selection Events in an Oracle JET Virtual DOM App](https://apexapps.oracle.com/pls/apex/f?p=44785:112:0::::P112_CONTENT_ID:32352) | Master Detail Views in Oracle JET | This tutorial concludes this module and instructs developers on how to use change listeners and event handlers to modify their app’s displayed master-detail data to respond to Oracle JET List View component selection events. |
+| [Add Containers to the Oracle JET Virtual DOM App](https://apexapps.oracle.com/pls/apex/f?p=44785:112:0::::P112_CONTENT_ID:32346) | Responsive Design | This first tutorial in the module teaches developers how to add flex layout style classes to their app to make their page layout responsive to screen-size changes. |
+| [Show or Hide Content in the Oracle JET Virtual DOM App](https://apexapps.oracle.com/pls/apex/f?p=44785:112:0::::P112_CONTENT_ID:32348)n| Responsive Design | This module's third tutorial teaches developers how to monitor changes in the size of their app's window and modify their app’s components to load different content to adjust to changes in screen size. |
+| [Create the Master View in an Oracle JET Virtual DOM App](https://apexapps.oracle.com/pls/apex/f?p=44785:112:0::::P112_CONTENT_ID:32350) | Master Detail Views in Oracle JET | This first tutorial in the module teaches developers how to read data from a local JSON document and use a data-provider object to display the data in a list. |
+| [Handle Selection Events in an Oracle JET Virtual DOM App](https://apexapps.oracle.com/pls/apex/f?p=44785:112:0::::P112_CONTENT_ID:32352) | Master Detail Views in Oracle JET | This module's final tutorial instructs developers on how to use change listeners and event handlers to modify their app’s displayed data to respond to selection events. |
 
 
 # [Discover Accessibility](https://docs.oracle.com/en//middleware/developer-tools/jet/18/accessibility.html)
 
 I created this learning path that teaches users how to test Oracle JET web apps for accessibility and fix accessibility issues.
 
-The tutorial was created to follow Web Content Accessibility Guidelines (WCAG) 2.2. It uses an Oracle JET app to teach users accessibility standards and methods for testing and ensuring the accessibility of Oracle JET apps.
+These tutorials follow the Web Content Accessibility Guidelines (WCAG) 2.2, and they use an Oracle JET app to teach users accessibility standards and methods for testing and ensuring the accessibility of Oracle JET apps.
 
-The first module, _Identify Accessibility Issues_, teaches users about accessibility issues and methods to perform accessibility audits and inspections. The second module, _Validate and Fix Application Accessibility_, guides users through the process of fixing accessibility in their sample app and its JET web components.
+The first module, _Identify Accessibility Issues_, teaches users about accessibility issues and methods to perform accessibility audits and inspections. The second module, _Validate and Fix Application Accessibility_, guides users through the process of improving the accessibility of their sample app and its JET web components.
 
 There are seven tutorials in the learning path.
 
