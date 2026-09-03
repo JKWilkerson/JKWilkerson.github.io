@@ -14,17 +14,17 @@ Here is a selection of documentation that I created in support of two enterprise
 - Oracle JavaScript Extension Toolkit (JET) is an open-source collection of Oracle and third-party libraries that is used with the Redwood Design System to build the user interfaces of hundreds of Oracle apps. It is targeted to intermediate to advanced JavaScript developers and makes it simple and efficient to build applications that consume and interact with Oracle products and services, particularly Oracle Cloud.
 - Oracle Visual Builder Studio is a cloud-based Platform as a Service (PaaS) product for enterprise application development. The platform combines low-code development and DevOps tooling to help developers build, test, and deploy web and mobile apps.
 
-I collaborated with developers, product managers, and designers to plan and publish documentation alongside the release cycles of these products, maintaining the quality and consistency of our content as features and user needs evolved. I wrote the majority of this documentation using Oxygen XML Editor, alongside a DITA-based content management system.
+I collaborated with developers, product managers, designers, and customer support teams to publish documentation throughout the software release cycle, improving the quality and coverage of our content as features and user needs evolved. I wrote the majority of this documentation using Oxygen XML Editor and a DITA-based content management system.
 
 
 
-<!-- from Walter on JET Guides: Oracle JET introduced a new development paradigm, the virtual DOM architecture, to enable app developers to create apps and components using a virtual DOM engine.
+<!-- W, on JET Guides: Oracle JET introduced a new development paradigm, the virtual DOM architecture, to enable app developers to create apps and components using a virtual DOM engine.
 
 Using a DITA-based content management system, I created a new developer's guide from scratch that described how to develop apps using the virtual DOM architecture. Where appropriate, I took advantage of the content reuse capabilities in the DITA-based content management system to reuse content from the developer's guide for the pre-existing Model-View-ViewModel architecture..  -->
 
-<!-- From kenneth ganfield on VBS: As a Principal User Assistance Developer, I was part of a team responsible for writing and publishing web-based documentation for Oracle Visual Builder and Visual Builder Studio, cloud-based software development Platform as a Service (PaaS) products for enterprise application development. My responsibilities included working with developers and product managers to plan and architect publications to cover the products’ expanding features. -->
 
-<!-- This needs better organization. Organize by types of documents. A line about where these are drawn from -->
+
+<!-- Organize by types of documents. A line about where these are drawn from -->
 <!-- TODO
 - Use oracle javascript extension toolkit (JET) in earlier breakdown
 - Can I grab content from other 
@@ -43,7 +43,7 @@ At some place, I need to describe what each guide is- what the product is.
 
 # Guides
 
-From the developer guides _Developing Oracle JET Apps Using MVVM Architecture_ and _Developing Oracle JET Apps Using Virtual DOM Architecture_:
+Samples from the developer guides _Developing Oracle JET Apps Using MVVM Architecture_ and _Developing Oracle JET Apps Using Virtual DOM Architecture_:
 
 - [Migrate Oracle JET Legacy Components to Core Pack Components](https://docs.oracle.com/en/middleware/developer-tools/jet/19/vdom/core-pack-migrator.html#GUID-C090B095-5014-407B-8BE0-E452333124F4)
   - An appendix chapter I wrote that discusses how to use an Oracle JET migrator tool on files with legacy web components, in order to migrate the components to their new Core Pack  equivalents. 
@@ -57,7 +57,7 @@ From the developer guides _Developing Oracle JET Apps Using MVVM Architecture_ a
 [Add Third-Party Tools or Libraries to Your Oracle JET App](https://docs.oracle.com/en/middleware/developer-tools/jet/19/develop/using-requirejs-modular-development.html#GUID-EC40DF3C-57FB-4919-A066-73E573D66B67)
   Descriptive text
 -->
-From the user guide _Using Visual Builder Studio_:
+Samples from the user guide _Using Visual Builder Studio_:
 
 - [Reapply a Merge Request's Commits to a New Branch](https://docs.oracle.com/en/cloud/paas/visual-builder/visualbuilder-manage-development-process/reapply-merge-requests-commits-new-branch.html)
   - A short topic on the platform's feature that enables users to apply commits from a merged or closed merge request to a new merge request and review branch.
@@ -72,7 +72,7 @@ From the user guide _Using Visual Builder Studio_:
 
 # Release Notes
 
-New editions of the publication _What's New in Oracle JET_ are released alongside each new version of the Oracle JavaScript Extension Toolkit (JET) to inform JET developers of notable changes to the toolkit and its documentation.
+I created new editions of _What's New in Oracle JET_ for each release of Oracle JET to inform users of notable changes to the toolkit and its documentation.
 
 - [_What's New in Oracle JET 19_](https://docs.oracle.com/en/middleware/developer-tools/jet/19/whats-new/index.html#GUID-737BD500-6977-49B9-80A6-6105D4BF8F89) (notes for major release)
 - [_What's New in Oracle JET 18.1_](https://docs.oracle.com/en/middleware/developer-tools/jet/18.1/whats-new/index.html#GUID-737BD500-6977-49B9-80A6-6105D4BF8F89) (notes for minor release)
